@@ -1,0 +1,64 @@
+                                                                                                                INVESTMENT REPORT
+                                                                                                       March 20, 2019 - March 21, 2019
+
+
+
+
+                                                                                                              Account # X01-000019
+Holdings                                                                                                 RAMON DURWIN MACAULEY
+
+
+Bonds
+                                       Beginning                          Price   End. Market Value
+                                     Market Value      Quantity        Per Unit    Accrued Int. (AI)                  Est. Annual   Coupon
+Description              Maturity    Mar 20, 2019   Mar 21, 2019   Mar 21, 2019        Mar 21, 2019                 Income (EAI)      Rate
+Corporate Bonds
+TIMBERWEST FST CORP        02/11/14     unavailable   20,000.000              -          unavailable                            -   9.000%
+EXT CV DEB 9.00000%                                                                                -
+FIXED COUPON ***UNRATED*** QUARTERLY CUSIP: 887147AD8
+FMS WERTMANAGEMENT N       06/15/15     unavailable   35,000.000              -          unavailable                            -        -
+OTE 0.00000%                                                                                       -
+FLOATING COUPON MOODYS Aaa S&P AAA QUARTERLY CUSIP: D2R6KWRU3
+FMS WERTMANAGEMENT N       09/15/15     unavailable   40,000.000              -          unavailable                            -   0.526
+OTE REG S 0.52599%                                                                                 -
+FLOATING COUPON MOODYS Aaa S&P AAA QUARTERLY CUSIP: D2R6KW7Q4
+OESTERREICHISCHE KON       10/23/15     unavailable   12,000.000              -          unavailable                            -   3.000
+TROLLBANK AG BOND                                                                                  -
+FIXED COUPON MOODYS WR S&P AA+ ANNUALLY CUSIP: A50950LD3
+BRITISH COLUMBIA HYD RO    07/15/16     unavailable   75,000.000              -          unavailable                            -        -
+&PWR BOND                                                                                          -
+ZERO COUPON CUSIP: 11064ZEY4
+AUSTRIA(REPUBLIC OF)       10/24/16     unavailable   30,000.000              -          unavailable                            -   1.040
+
+
+
+
+                                                                                                                                             P
+NOTE 1.04000%                                                                                      -
+FLOATING COUPON S&P AA+ QUARTERLY CUSIP: A5260VGC2
+COMMERZBANK AG BOND        11/21/16     unavailable   15,000.000              -          unavailable                            -        -
+
+
+
+
+                                                                                                                                             MR_CE _BJDCRFBBBBBBB_BBBBB 20190321
+ZERO CPN 0.00000%                                                                                  -
+ZERO COUPON S&P BBB+ CUSIP: D1575CAA0
+TEMPLE HOTELS INC BO ND 03/31/18        unavailable      500.000              -          unavailable                            -   7.000
+7.00000%                                                                                           -
+FIXED COUPON SEMIANNUALLY CUSIP: 879854AE7
+YPG FINANCING INC SR NT    11/30/18     unavailable   25,000.000              -          unavailable                            -   9.250
+9.25000%                                                                                           -
+FIXED COUPON S&P BB- QUARTERLY CUSIP: 98424TAA6
+CANADA HSG TR NO 1 B       12/15/18     unavailable       -2.000              -          unavailable                            -   4.100
+OND 4.10000%                                                                                       -
+FIXED COUPON MOODYS WR SEMIANNUALLY CUSIP: 13509PBN2
+SASKATCHEWAN PROV CD       06/17/19     unavailable   12,000.000              -          unavailable                            -   5.500
+A NOTE 5.50000%                                                                                    -
+STEP COUPON MOODYS Aaa S&P AA SEMIANNUALLY CUSIP: 803854JG4
+
+
+
+
+                                                                                                                                      10 of 30
+

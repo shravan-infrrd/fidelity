@@ -1,0 +1,64 @@
+                                                                                                                                                                       INVESTMENT REPORT
+                                                                                                                                                              March 20, 2019 - March 21, 2019
+
+
+
+
+                                                                                                                                                                     Account # X01-000019
+Holdings                                                                                                                                                        RAMON DURWIN MACAULEY
+
+
+      All positions held in cash account unless indicated otherwise.
+
+EAI Estimated Annual Income (EAI) & Estimated Yield (EY) - EAI is an estimate of annual income for a specific security position over the next rolling 12 months. EAI may be negative on short
+& EY positions. EY is calculated by dividing the current EAI for a security position by its statement closing date market value. EAI and EY are estimates only and may include return of principal
+     and/or capital gains, which would render them overstated. Actual income and yield might be lower or higher than the estimated amounts. For calculation details, refer to the
+     "Additional Information and Endnotes" section.
+
+h     The stated Interest Rate is the interest rate effective for Cash Balances in your FDIC-Insured Deposit Sweep on the last day of the statement period.
+
+q     Customers are responsible for monitoring their total assets at the Program Bank to determine the extent of available FDIC insurance. Subject to the terms of the customer agreement,
+      customers are reminded that funds are swept to a Program Bank the business day following the date that funds are credited to your account and until swept to a Program Bank, funds are
+      covered by SIPC. For additional information, please see the FDIC-Insured Deposit Sweep Disclosures on Fidelity.com.
+
+
+
+Activity
+
+Dividends, Interest & Other Income
+(Includes dividend reinvestment)
+
+Settlement                                                 Symbol/
+
+
+
+
+                                                                                                                                                                                                         P
+Date       Security Name                                   CUSIP         Description                             Quantity           Price                                                 Amount
+03/20      PUTNAM DYNAMIC ASSET ALLOC                      746444504     Long-Term Cap Gain                             -               -                                                   $0.18
+           CONSERV CL A
+Total Dividends, Interest & Other Income                                                                                                                                                     $0.18
+
+
+
+
+                                                                                                                                                                                                         MR_CE _BJDCRFBBBBBBB_BBBBB 20190321
+Trades Pending Settlement
+Trade Settlement                                                   Symbol/
+Date Date       Security Name                                      CUSIP          Description                                   Quantity             Price                                Amount
+06/19 00/00     ANDY SMSV TEST CUSIP MUNI BOND                     ANDY00126      Bought                                      5,000.0000                 -                                     -
+                05.10000% 07/15/2021
+06/19 00/00     SMSV TEST CUSIP WHEN ISSUED NOTE                   SMSVWI000 Bought                                          10,000.0000                  -                                          -
+                05.10000% 07/15/2021
+06/19 00/00     FHLMC 10% CURRENT FACTOR NOT                       312990JF2      Bought                                      5,000.0000                  -                                          -
+                YET AVAILABLE
+06/19 00/00     FHR 2668 SN INV FLTR                               BCC0CD3W5 Bought                                          10,000.0000                  -                                          -
+                TBA
+06/19 00/00     FHLMC 8.00%                                        312990JB1      Bought                                     10,000.0000                  -                                          -
+                WHEN ISSUED
+
+
+
+
+                                                                                                                                                                                                 15 of 30
+

@@ -1,0 +1,54 @@
+                                                                                                                                                                            INVESTMENT REPORT
+                                                                                                                                                                   March 20, 2019 - March 21, 2019
+
+
+
+
+                                                                                                                                                                           Account # X01-000019
+Global Holdings                                                                                                                                                       RAMON DURWIN MACAULEY
+
+
+      This account contains multi-currency transactions, activity, and/or positions reflected in USD equivalents. Please refer to the Global Holdings and/or Global Activity sections for further information.
+
+
+
+Stock Plans
+Items shown under "Stock Plans" represent your interests under your company's stock plans, for which Fidelity Stock Plan Services LLC provides administrative and record keeping services. Items
+shown under "Stock Plans" are not assets held in your Fidelity brokerage account, and therefore are not carried by NFS and are not covered by SIPC. Fidelity Stock Plan Services LLC provides this
+statement to you as part of administrative and recordkeeping services it provides to the company. See the Participant Agreement for details.
+
+
+Stock Options - STOCK OPTION PLAN
+
+Stock Options Summary
+                                                    Number of Options            Price Per Share               Total Value 3       Number of Options               Price Per Share            Total Value 3
+                                                       March 20, 2019            March 20, 2019             March 20, 2019            March 21, 2019               March 21, 2019          March 21, 2019
+Exercisable Options                                             1,000               $201.12000                $201,120.00                      1,000                 $194.58000             $194,580.00
+Total Vested Options                                            1,000               $201.12000                $201,120.00                      1,000                 $194.58000             $194,580.00
+Total Options                                                   1,000               $201.12000                $201,120.00                      1,000                 $194.58000             $194,580.00
+
+
+
+
+                                                                                                                                                                                                              P
+Grant Balances
+                                                              Grant 4                            Total Options         Options                          Options          Total Options        Total Value 3
+Grant Date      Expiration Date Grant ID                      Type            Grant Price       March 20, 2019        Exercised                        Cancelled        March 21, 2019        Of Options
+
+
+
+
+                                                                                                                                                                                                              MR_CE _BJDCRFBBBBBBB_BBBBB 20190321
+04/06/2017      12/31/9999       PA-OGA                       ISO                   $0.00                1,000                 0                              0                 1,000       $194,580.00
+Total                                                                                                    1,000                 0                              0                 1,000       $194,580.00
+
+
+3    Stock Options values are calculated using the previous price per share minus the grant price from Grant Balance Section multiplied by the number of Options or zero, whichever is greater. Fair
+     Market Value is determined under your Plan rules and Option grant. Actual values of exercises may vary.
+4    ISO = Incentive Stock Option
+
+
+
+
+                                                                                                                                                                                                       27 of 30
+

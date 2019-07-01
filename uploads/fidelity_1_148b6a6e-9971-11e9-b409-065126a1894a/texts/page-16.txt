@@ -1,0 +1,56 @@
+                                                                                                              INVESTMENT REPORT
+                                                                                                     March 20, 2019 - March 21, 2019
+
+
+
+
+                                                                                                            Account # X01-000019
+Activity                                                                                               RAMON DURWIN MACAULEY
+
+
+Trades Pending Settlement    (continued)
+
+Trade Settlement                                   Symbol/
+Date Date        Security Name                     CUSIP     Description       Quantity      Price                           Amount
+06/19 00/00      FANNIE MAE SER 2004-25 CL UB      BCC0EDH32 Bought         10,000.0000          -                                -
+                 5.50% T B A
+06/19 00/00      GNR SER 2003-84 CL BC             BCC0CH819 Bought         10,000.0000          -                                  -
+                 TBA
+06/19 00/00      DEUTSCHE BANK AG RT 10/05/2010    D17922903   Bought         100.0000           -                                  -
+                 "WHEN ISSUED"
+03/11 03/11      AMERICAN AIRLS GROUP INC COM      02376R904   Bought          11.0000           -                                  -
+                 WHEN ISSUED
+03/11 03/11      AMERICAN AIRLS GROUP INC COM      02376R904   Bought         112.0000           -                                  -
+                 WHEN ISSUED
+02/01 02/01      DEUTSCHE BANK AG RT 10/05/2010    D17922903   Bought         375.0000           -                                  -
+                 "WHEN ISSUED"
+05/08 05/08      AMERICAN INTL GROUP INC COM NEW   AIG         Bought           30.0000   56.00000                          -1,680.00
+08/09 08/09      BOSTON PPTYS INC                  BXP         Bought           10.0000    8.00000                             -80.00
+08/09 08/09      YUM] BRANDS INC                   YUM         Bought           10.0000    8.00000                             -80.00
+08/09 08/09      HONEYWELL INTL INC SHORT SALE     HON         Sold Short      -10.0000   12.00000                             119.99
+08/09 08/09      STARWOOD HOTELS & RESORTS         HOT         Sold Short      -10.0000   12.00000                             119.99
+                 WORLDWIDE
+                 INC COM SHORT SALE
+
+
+
+
+                                                                                                                                        P
+08/16 08/16      BOSTON PPTYS INC                  BXP         Bought           20.0000   10.00000                            -200.00
+08/16 08/16      YUM] BRANDS INC                   YUM         Bought           20.0000   10.00000                            -200.00
+08/16 08/16      HONEYWELL INTL INC SHORT SALE     HON         Sold Short      -10.0000   15.00000                             149.99
+08/16 08/16      STARWOOD HOTELS & RESORTS         HOT         Sold Short      -10.0000   15.00000                             149.99
+
+
+
+
+                                                                                                                                        MR_CE _BJDCRFBBBBBBB_BBBBB 20190321
+                 WORLDWIDE
+                 INC COM SHORT SALE
+Total Trades Pending Settlement                                                                                            -$1,700.04
+
+
+
+
+                                                                                                                                   16 of 30
+

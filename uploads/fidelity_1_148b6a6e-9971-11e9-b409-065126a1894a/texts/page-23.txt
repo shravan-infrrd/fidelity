@@ -1,0 +1,55 @@
+                                                                                           INVESTMENT REPORT
+                                                                                  March 20, 2019 - March 21, 2019
+
+
+
+
+                                                                                          Account # X01-000019
+Global Holdings                                                                      RAMON DURWIN MACAULEY
+
+
+Pound Sterling
+Description                                       Quantity    Unit Price   Total Local Currency          USD Total
+Stocks
+HEADLAM GROUP ORD GBP0.05                           69.000            -              unavailable        unavailable
+JZ CAPITAL PARTNERS ORD NPV(JZCLF)              14,900.000       4.2900               63,921.00          83,557.53
+VODAFONE GROUP ORD USD0.11428571                24,452.000            -              unavailable        unavailable
+SERICA ENERGY PLC ORDUSD0.1                        200.000       1.2700                  254.00             332.03
+VOLKSWAGEN AG ORD NPV                               38.000            -              unavailable        unavailable
+BRITISH SKY BROADCASTING GROUP ORD                  20.000            -              unavailable        unavailable
+Bonds
+FMS WERTMANAGEMENT NOTE REG S 0.52599%          40,000.000            -              unavailable        unavailable
+2-BOX UK TEST BOND BOND 5.000%                  10,000.000            -              unavailable        unavailable
+SAINSBURY(J) NOTE REGS 1.25000%                 25,000.000            -              unavailable        unavailable
+EUROPEAN INVESTMENT BANK BOND ZERO CPN         135,000.000            -              unavailable        unavailable
+HOME GROUP BOND ZERO CPN 0.00000%               20,000.000            -              unavailable        unavailable
+SPS 2006-1X E1C BOND REG S 0.00000%             53,000.000            -              unavailable        unavailable
+Other
+POUND STERLING (GBP)                         -1,434,889.070      1.0000           -1,434,889.07      -$1,875,686.99
+TYRATECH INC COM SHS USD0.001                         9.000           -              unavailable         unavailable
+
+
+
+
+                                                                                                                       P
+Total Pound Sterling                                                              -1,370,714.07      -$1,791,797.43
+
+
+
+
+                                                                                                                       MR_CE _BJDCRFBBBBBBB_BBBBB 20190321
+Hong Kong Dollar
+Description                                       Quantity    Unit Price   Total Local Currency          USD Total
+Stocks
+VANTAGE INTERNATIONALHLDGS                      32,500.000            -              unavailable        unavailable
+HONG KONG EXCHANGES &CLEARING NPV(HKXCF)            32.000     272.0000                8,704.00           1,109.11
+XINJIANG GOLDWIND SCIENCE&TECHNOLOG(XJNGF)       1,000.000      11.2800               11,280.00           1,437.36
+Other
+HONG KONG DOLLAR (HKD)                       -3,969,614.490      1.0000           -3,969,614.49       -$505,831.58
+Total Hong Kong Dollar                                                            -3,949,630.49       -$503,285.11
+
+
+
+
+                                                                                                                 23 of 30
+

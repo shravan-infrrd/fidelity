@@ -1,0 +1,53 @@
+                                                                                         INVESTMENT REPORT
+                                                                                March 20, 2019 - March 21, 2019
+
+
+
+
+                                                                                        Account # X01-000019
+Global Holdings                                                                    RAMON DURWIN MACAULEY
+
+
+Israeli Shekel
+Description                                    Quantity     Unit Price   Total Local Currency         USD Total
+Other
+ISRAELI SHEKEL (ILS)                             -2.000        1.0000                   -2.00             -$0.56
+Total Israeli Shekel                                                                    -2.00             -$0.56
+
+
+
+Japanese Yen
+Description                                    Quantity     Unit Price   Total Local Currency         USD Total
+Stocks
+GRAPHITE DESIGN INC NPV                         100.000              -            unavailable         unavailable
+SEKISUI HOUSE NPV(SKHSF)                         77.000     1,821.0000            140,217.00            1,264.87
+TOYOTA MOTOR CORP NPV (TOYOF)                   100.000     6,705.0650            670,506.47            6,048.50
+Bonds
+AUSTRIA(REPUBLIC OF) BOND 144A 5.10000%      65,000.000              -             unavailable        unavailable
+ARGENTINA(REPUBLIC OF)BOND 0.45000%          25,000.000              -             unavailable        unavailable
+WESTPAC BANKING CORPORATION BOND             30,000.000              -             unavailable        unavailable
+Other
+
+
+
+
+                                                                                                                    P
+JAPANESE YEN (JPY)                        -1,744,943.000       1.0000           -1,744,943.00        -$15,740.77
+Total Japanese Yen                                                                -934,219.53         -$8,427.40
+
+
+
+
+                                                                                                                    MR_CE _BJDCRFBBBBBBB_BBBBB 20190321
+South Korean Won
+Description                                    Quantity     Unit Price   Total Local Currency         USD Total
+Stocks
+DONG IL CORP KSWN5000                            21.000              -             unavailable        unavailable
+SAMSUNG ELECTRONICS COKRW5000(SSNLF)          1,150.000    45,850.0000          52,727,500.00          46,764.97
+Total South Korean Won                                                          52,727,500.00         $46,764.97
+
+
+
+
+                                                                                                              24 of 30
+
